@@ -1,0 +1,61 @@
+**What is a Machine?**
+- Computer
+- Car
+- Phone
+- Earphones
+- Robot
+- Printer
+- Smartwatch
+- TV
+- Blender
+- Microwave
+
+**Is Pen a machine?**
+A pen is a simple machine with basic functionality.
+
+**Why is a computer called a 'Smart Machine'?**
+A computer is called a 'Smart Machine' since it has a brain in the form of a CPU which can process complex processes and scripts.
+
+**Are phones/tablets also computers?**
+Yes, they are basically miniature computers
+
+**List some places computers and used.**
+- Home
+- Office
+- Schools
+- Banks
+- Accounting
+- E V E R Y W H E R E
+
+**Who is the father of the computer?**
+Charles Babbage
+
+**When was the first computer developed?**
+1943
+
+**What are the different Operating Systems/Platforms you know?**
+- iOS
+- MacOS
+- Android
+- Windows
+- Linux
+- Ubuntu
+- watchOS
+
+**How computers work: What makes a Computer, a computer?**
+A computer is made a computer with all the necessary parts to receive, process and output data. This includes mother board, cpu, ram, gpu, monitor, keyboard and mouse.
+
+**How computers work: Hardware and Software.**
+Hardware are the physical devices needed to run the Software which is a program interpreted by computers.
+
+**What is Python?**
+Python is a programming language with various use-cases including applications, games, web apps, GUI and many more.
+
+**Who designed Python?**
+Guido van Rossum
+
+**Why was Python Programming Language name Python?**
+Guido Van Rossum wanted a short and catchy name with slight mystery and decided on Python as he was watching Monty Python's Flying Circus at the time.
+
+**When was Python developed?**
+February 20, 1991
