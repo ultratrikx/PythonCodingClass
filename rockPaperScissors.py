@@ -29,6 +29,4 @@ while player != "quit":
             print('you won')
     else:
         print('error occured')
-    finally:
-        inp = input('do you want to continue again')
-        if inp.
+
