@@ -29,4 +29,6 @@ while player != "quit":
             print('you won')
     else:
         print('error occured')
+print()
+player = input('Enter your choice, Rock, Paper or Scissors. Type quit to leave the game.')
 
